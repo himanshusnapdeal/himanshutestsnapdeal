@@ -9,6 +9,6 @@ public class test_class {
 	@Test
 	
 	public void test(){
-		System.out.println("Hello Himanshu");
+		System.out.println("Hello Himanshu,this is test repository");
 	}
 }
